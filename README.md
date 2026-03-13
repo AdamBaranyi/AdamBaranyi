@@ -51,15 +51,20 @@ My interests include:
 
 ## 🤖 AI-Assisted Development
 
-I regularly use modern AI tools to support software development workflows.
+I use modern AI-assisted development tools to improve productivity and accelerate software development workflows.
 
 Examples include:
 
-• ChatGPT
-• Google Gemini
-• AI-assisted coding tools and LLM workflows
+• Replit AI development environment  
+• Google Antigravity AI development platform  
+• LLM-assisted coding workflows
 
-These tools help accelerate development, debugging and problem solving.
+These tools support tasks such as:
+
+• code generation  
+• debugging and problem solving  
+• rapid prototyping  
+• improving development efficiency
 
 ---
 
