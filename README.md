@@ -1,12 +1,10 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋 I'm Adam Baranyi</h1>
 
 <h3 align="center">Junior Software Developer | Full-Stack Learner</h3>
 
 <p align="center">
-💻 Junior Software Developer based in Switzerland  
-🚀 Passionate about building modern web applications  
+💻 Junior Software Developer based in Switzerland <br>
+🚀 Passionate about building modern web applications <br>
 📚 Currently studying Full-Stack Development
 </p>
 
@@ -17,24 +15,48 @@
 ## 👨‍💻 About Me
 
 * 💻 Junior Software Developer
-* 🎓 Student at Developer Akademie
+* 🎓 Full-Stack student at Developer Akademie
 * 🚀 Passionate about Web Development
-* 🧠 Always learning new technologies
-* 📍 Switzerland
+* 🤖 Interested in AI tools and modern development workflows
+* 📍 Based in Switzerland
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,git,github,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,figma,vscode,firebase,supabase" />
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🤖 AI Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ChatGPT-OpenAI-10a37f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gemini-Google-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-Development-purple?style=for-the-badge" />
+
+</p>
+
+---
+
+# ⚙ Development Workflow
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Scrum-Agile-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitHub-Collaboration-black?style=for-the-badge" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -46,7 +68,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -56,7 +78,17 @@
 
 ---
 
-## 🧰 Tools I Use
+# 🐍 Contribution Snake
+
+<p align="center">
+
+![snake gif](https://github.com/AdamBaranyi/AdamBaranyi/blob/output/github-contribution-grid-snake.svg)
+
+</p>
+
+---
+
+# 🧰 Tools I Use
 
 <p align="center">
 
@@ -66,7 +98,7 @@
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -79,8 +111,10 @@
 ---
 
 <p align="center">
-![![snake gif](https://github.com/AdamBaranyi/AdamBaranyi/blob/output/github-contribution-grid-snake.svg)](https://komarev.com/ghpvc/?username=AdamBaranyi)
+
+![](https://komarev.com/ghpvc/?username=AdamBaranyi)
+
 </p>
-![snake gif](https://github.com/AdamBaranyi/AdamBaranyi/blob/output/github-contribution-grid-snake.svg)
+
 
 
