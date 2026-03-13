@@ -79,7 +79,7 @@
 ---
 
 <p align="center">
-![](https://komarev.com/ghpvc/?username=AdamBaranyi)
+![![snake gif](https://github.com/AdamBaranyi/AdamBaranyi/blob/output/github-contribution-grid-snake.svg)](https://komarev.com/ghpvc/?username=AdamBaranyi)
 </p>
 ![snake gif](https://github.com/AdamBaranyi/AdamBaranyi/blob/output/github-contribution-grid-snake.svg)
 
