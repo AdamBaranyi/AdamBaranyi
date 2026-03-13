@@ -96,10 +96,10 @@ These tools support tasks such as:
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github.com/AdamBaranyi/AdamBaranyi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdamBaranyi&theme=tokyo-night"/>
 </p>
 
 ---
