@@ -17,7 +17,7 @@
 * 💻 Junior Software Developer
 * 🎓 Full-Stack student at Developer Akademie
 * 🚀 Passionate about Web Development
-* 🤖 Interested in AI tools and modern development workflows
+* 🤖 Interested in AI-assisted development
 * 📍 Based in Switzerland
 
 ---
@@ -26,7 +26,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,figma,vscode,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,gitlab,figma,vscode,firebase,supabase" />
 
 </p>
 
@@ -37,8 +37,20 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/ChatGPT-OpenAI-10a37f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gemini-Google-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI-Development-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gemini-Google-4285F4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-Assisted_Development-purple?style=for-the-badge" />
+
+</p>
+
+---
+
+# 🧰 Development Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Replit-Development-orange?style=for-the-badge&logo=replit" />
+<img src="https://img.shields.io/badge/Antigravity-Google-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitLab-DevOps-orange?style=for-the-badge&logo=gitlab" />
 
 </p>
 
@@ -49,10 +61,19 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Scrum-Agile-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git-Version_Control-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/GitHub-Collaboration-black?style=for-the-badge" />
 
 </p>
+
+---
+
+# 🚀 Current Focus
+
+• Full-Stack Web Development
+• Modern JavaScript Applications
+• AI assisted development workflows
+• Collaborative development with Git & Scrum
 
 ---
 
@@ -82,7 +103,7 @@
 
 <p align="center">
 
-![snake gif](https://github.com/AdamBaranyi/AdamBaranyi/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/AdamBaranyi/AdamBaranyi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </p>
 
@@ -92,8 +113,16 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,git,github" />
+<img src="https://skillicons.dev/icons?i=vscode,figma,git,github,gitlab" />
 
+</p>
+
+---
+
+# 📌 Featured Work
+
+<p align="center">
+Pinned repositories on my profile showcase the projects I am currently focusing on.
 </p>
 
 ---
@@ -112,9 +141,10 @@
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=AdamBaranyi)
+<img src="https://komarev.com/ghpvc/?username=AdamBaranyi&style=flat-square" />
 
 </p>
+
 
 
 
