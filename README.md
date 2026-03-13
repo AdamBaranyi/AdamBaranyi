@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋 I'm Adam Baranyi</h1>
 
-<h3 align="center">Junior Software Developer | Full-Stack Learner</h3>
+<h3 align="center">Junior Software Developer</h3>
 
 <p align="center">
-💻 Junior Software Developer based in Switzerland <br>
-🚀 Passionate about building modern web applications <br>
-📚 Currently studying Full-Stack Development
+Full-Stack Development Student • Switzerland
 </p>
 
 ---
@@ -14,70 +12,66 @@
 
 ## 👨‍💻 About Me
 
-* 💻 Junior Software Developer
-* 🎓 Full-Stack student at Developer Akademie
-* 🚀 Passionate about Web Development
-* 🤖 Interested in AI-assisted development
-* 📍 Based in Switzerland
+Junior Software Developer currently studying Full-Stack Development at Developer Akademie.
+
+I enjoy building modern web applications and continuously improving my programming skills.
+
+My interests include:
+
+• Modern JavaScript development
+• Backend services and databases
+• Collaborative software development
+• AI-assisted programming workflows
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,gitlab,figma,vscode,firebase,supabase" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs" />
 </p>
 
 ---
 
-# 🤖 AI Tools
+## 🗄 Backend & Database
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/ChatGPT-OpenAI-10a37f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gemini-Google-4285F4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI-Assisted_Development-purple?style=for-the-badge" />
-
+<img src="https://skillicons.dev/icons?i=supabase,firebase" />
 </p>
 
 ---
 
-# 🧰 Development Tools
+## 🧰 Development Tools
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Replit-Development-orange?style=for-the-badge&logo=replit" />
-<img src="https://img.shields.io/badge/Antigravity-Google-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GitLab-DevOps-orange?style=for-the-badge&logo=gitlab" />
-
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma" />
 </p>
 
 ---
 
-# ⚙ Development Workflow
+## 🤖 AI-Assisted Development
 
-<p align="center">
+I regularly use modern AI tools to support software development workflows.
 
-<img src="https://img.shields.io/badge/Scrum-Agile-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Git-Version_Control-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GitHub-Collaboration-black?style=for-the-badge" />
+Examples include:
 
-</p>
+• ChatGPT
+• Google Gemini
+• AI-assisted coding tools and LLM workflows
 
----
-
-# 🚀 Current Focus
-
-• Full-Stack Web Development
-• Modern JavaScript Applications
-• AI assisted development workflows
-• Collaborative development with Git & Scrum
+These tools help accelerate development, debugging and problem solving.
 
 ---
 
-# 📊 GitHub Stats
+## ⚙ Development Workflow
+
+• Git based version control
+• Scrum / Agile development
+• Team collaboration using GitHub and GitLab
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -89,61 +83,32 @@
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=AdamBaranyi&theme=tokyonight"/>
-
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://github.com/AdamBaranyi/AdamBaranyi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
 </p>
 
 ---
 
-# 🧰 Tools I Use
+## 📌 Projects
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,git,github,gitlab" />
-
-</p>
-
----
-
-# 📌 Featured Work
-
-<p align="center">
-Pinned repositories on my profile showcase the projects I am currently focusing on.
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/AdamBaranyi">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-</p>
+The projects I am currently working on are pinned on my GitHub profile.
 
 ---
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=AdamBaranyi&style=flat-square" />
-
 </p>
+
 
 
 
