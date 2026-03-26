@@ -18,17 +18,19 @@ I enjoy building modern web applications and continuously improving my programmi
 
 My interests include:
 
-• Modern JavaScript development
-• Backend services and databases
-• Collaborative software development
-• AI-assisted programming workflows
+• Modern JavaScript development  
+• Backend services and databases  
+• Collaborative software development  
+• AI-assisted programming workflows  
+
+I also work with relational databases such as PostgreSQL and have experience with SQL queries, data modeling, and backend integrations.
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,postgres,sqlite" />
 </p>
 
 ---
@@ -36,8 +38,17 @@ My interests include:
 ## 🗄 Backend & Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,firebase" />
 </p>
+
+---
+
+## 🧠 Database Skills
+
+• PostgreSQL (Supabase)  
+• SQL (queries, joins, filtering, aggregation)  
+• Database design & normalization  
+• Row Level Security (RLS)  
 
 ---
 
@@ -57,22 +68,22 @@ Examples include:
 
 • Replit AI development environment  
 • Google Antigravity AI development platform  
-• LLM-assisted coding workflows
+• LLM-assisted coding workflows  
 
 These tools support tasks such as:
 
 • code generation  
 • debugging and problem solving  
 • rapid prototyping  
-• improving development efficiency
+• improving development efficiency  
 
 ---
 
 ## ⚙ Development Workflow
 
-• Git based version control
-• Scrum / Agile development
-• Team collaboration using GitHub and GitLab
+• Git based version control  
+• Scrum / Agile development  
+• Team collaboration using GitHub and GitLab  
 
 ---
 
