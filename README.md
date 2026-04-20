@@ -8,8 +8,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Switzerland-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Full--Stack-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Every%20Day-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web%20Development-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Continuous-111827?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -18,26 +18,17 @@
 
 ---
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## About Me
 
 Hi, I’m **Adam Baranyi**, a **Junior Software Developer** with a strong interest in modern web development.
 
-I enjoy building practical and clean web applications while continuously improving my skills in **frontend development**, **backend integrations**, and **relational databases**.
+I enjoy building clean and practical web applications while continuously improving my skills in **frontend development**, **backend integrations**, and **relational databases**.
 
-My current focus is on creating projects with **React**, **Next.js**, **TypeScript**, **SQL**, and **PostgreSQL** while learning how modern applications are designed, connected, and improved over time.
+My current focus is on **React**, **Next.js**, **TypeScript**, **SQL**, and **PostgreSQL** while learning how modern applications are designed, connected, and improved over time.
 
-</td>
-<td width="42%" valign="top" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif" />
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
@@ -51,9 +42,9 @@ My current focus is on creating projects with **React**, **Next.js**, **TypeScri
 
 ## What I Work With
 
-<table width="100%">
+<table>
 <tr>
-<td width="33%" valign="top">
+<td valign="top" width="33%">
 
 ### Frontend
 - HTML
@@ -67,7 +58,7 @@ My current focus is on creating projects with **React**, **Next.js**, **TypeScri
 - Component-based UI
 
 </td>
-<td width="33%" valign="top">
+<td valign="top" width="33%">
 
 ### Backend & Database
 - Node.js
@@ -80,7 +71,7 @@ My current focus is on creating projects with **React**, **Next.js**, **TypeScri
 - Row Level Security (RLS)
 
 </td>
-<td width="33%" valign="top">
+<td valign="top" width="33%">
 
 ### Tools
 - Git
@@ -101,29 +92,74 @@ My current focus is on creating projects with **React**, **Next.js**, **TypeScri
 
 ## Current Focus
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Projects-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js%20Apps-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL%20%26%20PostgreSQL-0f172a?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Integrations-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Responsive%20UI%20%2F%20UX-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Projects-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI--Assisted%20Workflows-111827?style=flat-square" />
+</p>
+
+---
+
+## Development Style
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean%20Code-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Modern%20UI-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Continuous%20Learning-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Team%20Work-0f172a?style=for-the-badge" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdamBaranyi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamBaranyi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AdamBaranyi&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdamBaranyi&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## Featured Work
+
+<p align="center">
+  My pinned repositories highlight projects in <b>frontend development</b>, <b>full-stack applications</b>, <b>database-driven solutions</b>, and <b>AI-supported workflows</b>.
+</p>
+
+---
+
 <div align="center">
 
-```txt
-• Building modern React and Next.js projects
-• Improving TypeScript skills
-• Working more confidently with SQL and PostgreSQL
-• Connecting frontend and backend systems
-• Creating cleaner UI / UX
-• Using AI tools to support development workflows
+### Thanks for visiting my profile
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e293b,100:2563eb" />
+
 </div>
-Development Style
-<p align="center"> <img src="https://img.shields.io/badge/Clean_Code-0f172a?style=for-the-badge" /> <img src="https://img.shields.io/badge/Modern_UI-0f172a?style=for-the-badge" /> <img src="https://img.shields.io/badge/Continuous_Learning-0f172a?style=for-the-badge" /> <img src="https://img.shields.io/badge/Problem_Solving-0f172a?style=for-the-badge" /> <img src="https://img.shields.io/badge/Team_Work-0f172a?style=for-the-badge" /> </p>
-GitHub Stats
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdamBaranyi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamBaranyi&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=AdamBaranyi&theme=tokyonight&hide_border=true" /> </p>
-GitHub Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdamBaranyi&theme=tokyo-night&hide_border=true&area=true" width="100%" /> </p>
-Featured Work
-<p align="center"> My pinned repositories highlight projects in <b>frontend development</b>, <b>full-stack applications</b>, <b>database-driven solutions</b>, and <b>AI-supported workflows</b>. </p>
-<div align="center">
-Thanks for visiting my profile
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e293b,100:2563eb" width="100%" /> </div> ```
 
 
 
