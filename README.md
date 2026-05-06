@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:2563eb&text=Adam%20Baranyi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer%20%E2%80%A2%20Full-Stack%20Development%20Student&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:2563eb&text=Adam%20Baranyi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Frontend%20Developer%20%E2%80%A2%20Full-Stack%20Development%20Student&descAlignY=58&descSize=18" />
 
 </div>
 
-<h3 align="center">Building modern web applications with React, Next.js, TypeScript, SQL & PostgreSQL</h3>
+<h3 align="center">Junior Frontend Developer focused on modern, responsive and user-friendly web applications</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Switzerland-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web%20Development-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Continuous-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Full--Stack%20Development-111827?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -22,11 +22,14 @@
 
 ## About Me
 
-Hi, I’m **Adam Baranyi**, a **Junior Software Developer** with a strong interest in modern web development.
+Hi, I’m **Adam Baranyi**, a **Junior Frontend Developer** from Switzerland and currently a **Full-Stack Development Student**.
 
-I enjoy building clean and practical web applications while continuously improving my skills in **frontend development**, **backend integrations**, and **relational databases**.
+I enjoy building clean, responsive and practical web interfaces while improving my skills step by step.
 
-My current focus is on **React**, **Next.js**, **TypeScript**, **SQL**, and **PostgreSQL** while learning how modern applications are designed, connected, and improved over time.
+My main focus is on **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, **Next.js** and modern frontend development.  
+I am also learning how frontend applications connect with **backend services**, **databases** and real-world tools like **Supabase** and **PostgreSQL**.
+
+I like working on practical projects where I can improve my code quality, understand concepts better, and grow as a developer.
 
 <br clear="right"/>
 
@@ -40,13 +43,14 @@ My current focus is on **React**, **Next.js**, **TypeScript**, **SQL**, and **Po
 
 ---
 
-## What I Work With
+## Skills & Learning Areas
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
 ### Frontend
+
 - HTML
 - CSS
 - JavaScript
@@ -60,20 +64,22 @@ My current focus is on **React**, **Next.js**, **TypeScript**, **SQL**, and **Po
 </td>
 <td valign="top" width="33%">
 
-### Backend & Database
-- Node.js
-- PostgreSQL
-- SQL
-- Supabase
-- SQLite
-- SQL queries & joins
-- Data modeling basics
-- Row Level Security (RLS)
+### Currently Learning
+
+- Angular
+- Node.js basics
+- SQL & PostgreSQL
+- Supabase basics
+- API integrations
+- Authentication basics
+- Database-driven apps
+- Clean code structure
 
 </td>
 <td valign="top" width="33%">
 
-### Tools
+### Tools I Use
+
 - Git
 - GitHub
 - GitLab
@@ -81,8 +87,8 @@ My current focus is on **React**, **Next.js**, **TypeScript**, **SQL**, and **Po
 - Figma
 - Replit
 - Cloudinary
-- Stripe
-- OpenAI-based workflows
+- Stripe basics
+- AI-assisted workflows
 
 </td>
 </tr>
@@ -93,17 +99,17 @@ My current focus is on **React**, **Next.js**, **TypeScript**, **SQL**, and **Po
 ## Current Focus
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Frontend%20Development-0f172a?style=for-the-badge" />
   <img src="https://img.shields.io/badge/React%20Projects-0f172a?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Next.js%20Apps-0f172a?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL%20%26%20PostgreSQL-0f172a?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Integrations-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Responsive%20UI%20%2F%20UX-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Projects-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI--Assisted%20Workflows-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Responsive%20UI-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript%20Practice-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL%20Basics-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Learning-111827?style=flat-square" />
 </p>
 
 ---
@@ -111,9 +117,9 @@ My current focus is on **React**, **Next.js**, **TypeScript**, **SQL**, and **Po
 ## Development Style
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Clean%20Code-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean%20Structure-0f172a?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Modern%20UI-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Continuous%20Learning-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning%20By%20Building-0f172a?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problem%20Solving-0f172a?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Team%20Work-0f172a?style=for-the-badge" />
 </p>
@@ -148,7 +154,7 @@ My current focus is on **React**, **Next.js**, **TypeScript**, **SQL**, and **Po
 ## Featured Work
 
 <p align="center">
-  My pinned repositories highlight projects in <b>frontend development</b>, <b>full-stack applications</b>, <b>database-driven solutions</b>, and <b>AI-supported workflows</b>.
+  My pinned repositories show my progress in <b>frontend development</b>, <b>responsive layouts</b>, <b>JavaScript practice</b>, <b>React/Next.js projects</b> and <b>database-connected applications</b>.
 </p>
 
 ---
@@ -160,8 +166,3 @@ My current focus is on **React**, **Next.js**, **TypeScript**, **SQL**, and **Po
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e293b,100:2563eb" />
 
 </div>
-
-
-
-
-
