@@ -1,168 +1,103 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:2563eb&text=Adam%20Baranyi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Frontend%20Developer%20%E2%80%A2%20Full-Stack%20Development%20Student&descAlignY=58&descSize=18" />
-
-</div>
-
-<h3 align="center">Junior Frontend Developer focused on modern, responsive and user-friendly web applications</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Switzerland-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Full--Stack%20Development-111827?style=for-the-badge" />
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/header-dark-still.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/header-light-still.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/header-dark.svg">
+  <img src="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/header-light.svg" width="100%" alt="Adam Baranyi – Frontend &amp; Full-Stack Developer. React · Next.js · TypeScript – fast, accessible, production-ready web applications. Lucerne, Switzerland.">
+</picture>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdamBaranyi&style=flat-square&color=2563eb" />
-</p>
+Since May 2025 I have been working as a junior software developer across the whole stack. In client projects I take work from requirements analysis through the MVP into operations; often I am the central technical contact. My training as a full-stack developer at Developer Akademie continues alongside my job.
 
----
+**[adambaranyi.xyz](https://adambaranyi.xyz)** · [LinkedIn](https://www.linkedin.com/in/adam-baranyi123)
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/h01-dark.svg"><img src="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/h01-light.svg" width="100%" alt="My work"></picture></h3>
 
-## About Me
-
-Hi, I’m **Adam Baranyi**, a **Junior Frontend Developer** from Switzerland and currently a **Full-Stack Development Student**.
-
-I enjoy building clean, responsive and practical web interfaces while improving my skills step by step.
-
-My main focus is on **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, **Next.js** and modern frontend development.  
-I am also learning how frontend applications connect with **backend services**, **databases** and real-world tools like **Supabase** and **PostgreSQL**.
-
-I like working on practical projects where I can improve my code quality, understand concepts better, and grow as a developer.
-
-<br clear="right"/>
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,postgres,supabase,sqlite,git,github,gitlab,vscode,figma" />
-</p>
-
----
-
-## Skills & Learning Areas
+Applications I built myself, from the interface to operations.
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-### Frontend
+<a href="https://tallyroom.adambaranyi.xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/card-tallyroom-dark.webp"><img src="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/card-tallyroom-light.webp" width="100%" alt="Tallyroom – B2B dashboard &amp; client portal. Screenshot: dashboard with monthly contract value, active clients and a chart of the last six months."></picture></a>
 
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Tailwind CSS
-- Responsive Web Design
-- Component-based UI
+Dashboard with a client portal for small digital agencies, in four languages. Live, with a private demo for every visitor; the data is invented and deleted after 60 minutes.
+
+`React` `TypeScript` `Express` `PostgreSQL` `Docker`
+
+[Live demo](https://tallyroom.adambaranyi.xyz) · [Case study](https://github.com/AdamBaranyi/tallyroom/blob/main/docs/CASE_STUDY.md) · [Code on GitHub](https://github.com/AdamBaranyi/tallyroom)
 
 </td>
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-### Currently Learning
+<a href="https://evidarium.adambaranyi.xyz/demo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/card-evidarium-dark.webp"><img src="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/card-evidarium-light.webp" width="100%" alt="Evidarium – knowledge assistant with verifiable sources. Screenshot: an opened source with the quoted sentence highlighted in the original document."></picture></a>
 
-- Angular
-- Node.js basics
-- SQL & PostgreSQL
-- Supabase basics
-- API integrations
-- Authentication basics
-- Database-driven apps
-- Clean code structure
+RAG knowledge assistant for your own documents: upload, ask and get answers with sources that open in the original document. Live with a real language model; the demo runs without sign-in on documents of an invented company.
+
+`Next.js` `TypeScript` `PostgreSQL` `pgvector` `Anthropic API`
+
+[Live demo](https://evidarium.adambaranyi.xyz/demo) · [Case study (German)](https://github.com/AdamBaranyi/Evidarium/blob/main/docs/FALLSTUDIE.md) · [Code on GitHub](https://github.com/AdamBaranyi/Evidarium)
 
 </td>
-<td valign="top" width="33%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Tools I Use
+<a href="https://github.com/AdamBaranyi/Hundebuechli"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/card-hundebuechli-dark.webp"><img src="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/card-hundebuechli-light.webp" width="100%" alt="Hundebüechli – offline app for iPhone and Android, in progress: built, now in testing. Screenshots: what is due next, and the profile of a whippet."></picture></a>
 
-- Git
-- GitHub
-- GitLab
-- VS Code
-- Figma
-- Replit
-- Cloudinary
-- Stripe basics
-- AI-assisted workflows
+Vaccinations, deworming, tick protection and vet visits with due dates, reminders on the lock screen, medication, weight, a diary and three PDFs to share. It works without any network and without an account; all data stays on the device.
+
+`Expo` `React Native` `TypeScript` `SQLite` `Drizzle`
+
+[Case study (German)](https://github.com/AdamBaranyi/Hundebuechli/blob/main/docs/FALLSTUDIE.md) · [Code on GitHub](https://github.com/AdamBaranyi/Hundebuechli)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://adambaranyi.xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/card-portfolio-dark.webp"><img src="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/card-portfolio-light.webp" width="100%" alt="Portfolio – adambaranyi.xyz. Screenshot: start page with a green wireframe shape and two small planets around the photo."></picture></a>
+
+This portfolio: a static Next.js export with a three.js scene, in German and English, tested with Playwright and axe.
+
+`Next.js` `TypeScript` `three.js` `Playwright`
+
+[Live](https://adambaranyi.xyz)
 
 </td>
 </tr>
 </table>
 
----
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/h02-dark.svg"><img src="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/h02-light.svg" width="100%" alt="Projects from my training"></picture></h3>
 
-## Current Focus
+Four practice projects from my training as a full-stack developer, newest first.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Development-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React%20Projects-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js%20Apps-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge" />
-</p>
+<details>
+<summary><b>Show projects</b></summary>
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Responsive%20UI-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/JavaScript%20Practice-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL%20Basics-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Learning-111827?style=flat-square" />
-</p>
+| Project | What it is | Tech | Links |
+| --- | --- | --- | --- |
+| **Poll App** | Create surveys, answer them and watch the results come in live, without sign-in, based on a Figma design. | Angular · TypeScript · SCSS · Supabase | [View live](https://poll-app.adambaranyi.xyz) · [Code on GitHub](https://github.com/AdamBaranyi/Poll-App) |
+| **Memory App** | Memory game in the browser with selectable themes, number of players and boards from 4 × 4 to 6 × 6, based on a Figma design. | TypeScript · SCSS · Vite · HTML | [View live](https://memory-app.adambaranyi.xyz) · [Code on GitHub](https://github.com/AdamBaranyi/MemoryApp) |
+| **El Pollo Loco** | 2D jump-and-run in the browser with three levels, a final boss, sound and touch controls. | JavaScript with classes · HTML5 Canvas · CSS | [View live](https://polloloco.adambaranyi.xyz) · [Code on GitHub](https://github.com/AdamBaranyi/El-Pollo-Loco) |
+| **Pokédex** | Search, type filter, detail view and evolution chain, with data from the PokeAPI. | JavaScript · HTML · CSS · PokeAPI | [View live](https://pokedex.adambaranyi.xyz) · [Code on GitHub](https://github.com/AdamBaranyi/Pokedex) |
 
----
+</details>
 
-## Development Style
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/h03-dark.svg"><img src="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/h03-light.svg" width="100%" alt="My skill set"></picture></h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Clean%20Structure-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Modern%20UI-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning%20By%20Building-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Team%20Work-0f172a?style=for-the-badge" />
-</p>
+I use modern technologies to build fast, responsive and accessible web applications.
 
----
+**Core stack**<br>
+`React` `Next.js` `TypeScript` `JavaScript` `HTML` `CSS` `Tailwind CSS` `Node.js` `Express` `PostgreSQL` `Docker` `Git` `GitHub Actions` `Playwright` `Accessibility / WCAG` `Lighthouse / Core Web Vitals`
 
-## GitHub Stats
+**Project experience**<br>
+`three.js` `GSAP` `Vite` `shadcn/ui` `Bun` `Drizzle` `Zod` `Supabase` `Firebase` `S3` `Embeddings` `RAG` `Full‑Text Search` `LLM‑APIs` `Ubuntu` `Caddy` `GitLab CI` `Vitest / Jest` `Cross‑Browser Testing`
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdamBaranyi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamBaranyi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+**Basics / in training**<br>
+`Angular` `Python`
 
----
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/h04-dark.svg"><img src="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/h04-light.svg" width="100%" alt="Contact"></picture></h3>
 
-## GitHub Streak
+**Let's work together.** Would you like to know more about my work or have a chat? Write to me – I look forward to hearing from you.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdamBaranyi&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdamBaranyi&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-## Featured Work
-
-<p align="center">
-  My pinned repositories show my progress in <b>frontend development</b>, <b>responsive layouts</b>, <b>JavaScript practice</b>, <b>React/Next.js projects</b> and <b>database-connected applications</b>.
-</p>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e293b,100:2563eb" />
-
-</div>
+[Write to me](https://adambaranyi.xyz/en/#kontakt) · [LinkedIn](https://www.linkedin.com/in/adam-baranyi123) · [adambaranyi.xyz](https://adambaranyi.xyz)
