@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/header-dark-still.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/header-light-still.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/header-dark.svg">
-  <img src="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/header-light.svg" width="100%" alt="Adam Baranyi – Full-Stack Software Developer. React · Next.js · TypeScript · Node.js · PostgreSQL – fast, accessible, production-ready web applications. Lucerne, Switzerland.">
+  <img src="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/header-light.svg" width="100%" alt="Adam Baranyi – Junior Full-Stack Software Developer. React · Next.js · TypeScript · Node.js · PostgreSQL – fast, accessible, production-ready web applications. Lucerne, Switzerland.">
 </picture>
 </p>
 
@@ -88,7 +88,7 @@ Four practice projects from my training as a full-stack developer, newest first.
 I use modern technologies to build fast, responsive and accessible web applications.
 
 **Core stack**<br>
-`React` `Next.js` `TypeScript` `JavaScript` `HTML` `CSS` `Tailwind CSS` `Node.js` `Express` `PostgreSQL` `Docker` `Git` `GitHub Actions` `Playwright` `Accessibility / WCAG` `Lighthouse / Core Web Vitals`
+`React` `Next.js` `TypeScript` `JavaScript` `HTML` `CSS` `Tailwind CSS` `Node.js` `Express` `PostgreSQL` `Docker` `Git` `GitHub Actions` `Playwright` `Accessibility: semantic HTML, axe, keyboard and screen readers` `Lighthouse / Core Web Vitals`
 
 **Project experience**<br>
 `three.js` `GSAP` `Vite` `shadcn/ui` `Bun` `Drizzle` `Zod` `Supabase` `Firebase` `S3` `Embeddings` `RAG` `Full‑Text Search` `LLM‑APIs` `Ubuntu` `Caddy` `GitLab CI` `Vitest / Jest` `Cross‑Browser Testing`
