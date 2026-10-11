@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/header-dark-still.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/header-light-still.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/header-dark.svg">
-  <img src="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/header-light.svg" width="100%" alt="Adam Baranyi – Frontend &amp; Full-Stack Developer. React · Next.js · TypeScript – fast, accessible, production-ready web applications. Lucerne, Switzerland.">
+  <img src="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/header-light.svg" width="100%" alt="Adam Baranyi – Full-Stack Software Developer. React · Next.js · TypeScript · Node.js · PostgreSQL – fast, accessible, production-ready web applications. Lucerne, Switzerland.">
 </picture>
 </p>
 
@@ -21,7 +21,7 @@ Applications I built myself, from the interface to operations.
 
 <a href="https://tallyroom.adambaranyi.xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/card-tallyroom-dark.webp"><img src="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/card-tallyroom-light.webp" width="100%" alt="Tallyroom – B2B dashboard &amp; client portal. Screenshot: dashboard with monthly contract value, active clients and a chart of the last six months."></picture></a>
 
-Dashboard with a client portal for small digital agencies, in four languages. Live, with a private demo for every visitor; the data is invented and deleted after 60 minutes.
+Dashboard with a client portal for small digital agencies, in four languages. Live, with a private demo for every visitor; the data is invented and deleted after 60 minutes. Runs with Docker on my own server, with nightly backups and a rehearsed restore.
 
 `React` `TypeScript` `Express` `PostgreSQL` `Docker`
 
