@@ -54,13 +54,13 @@ Vaccinations, deworming, tick protection and vet visits with due dates, reminder
 </td>
 <td width="50%" valign="top">
 
-<a href="https://adambaranyi.github.io/ki-inventar/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/card-ki-inventar-dark.webp"><img src="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/card-ki-inventar-light.webp" width="100%" alt="Scene 04, KI-Inventar – register of AI tools for Swiss small businesses. Screenshot: seven tools of an invented company with 35 open checkpoints; subtitle «Seven tools, 35 open points.»"></picture></a>
+<a href="https://ki-inventar.adambaranyi.xyz/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/card-ki-inventar-dark.webp"><img src="https://raw.githubusercontent.com/AdamBaranyi/AdamBaranyi/main/assets/card-ki-inventar-light.webp" width="100%" alt="Scene 04, KI-Inventar – register of AI tools for Swiss small businesses. Screenshot: the overview of an invented company, 5 of 40 checkpoints done, seven tools with their open points; subtitle «Seven tools, 35 open points.»"></picture></a>
 
-A free register of the AI tools a company uses: every tool is recorded with ten questions, and from the answers come checkpoints with a reason and the legal reference under the Swiss Data Protection Act and the EU AI Act. Everything stays in the browser: no account, no server, nothing sent. Not legal advice; the app is in German.
+A free register of the AI tools a company uses: every tool is recorded with ten questions, with suggested answers for ChatGPT, Copilot, Claude, Gemini and DeepL. From the answers come checkpoints with a reason and the legal reference under the Swiss Data Protection Act and the EU AI Act, a draft record of processing and dates for the yearly review. Everything stays in the browser: no account, no server, nothing sent. Not legal advice; the app is in German.
 
 `Angular` `TypeScript` `Zod` `Vitest` `Playwright`
 
-[Live demo](https://adambaranyi.github.io/ki-inventar/) · [Code on GitHub](https://github.com/AdamBaranyi/ki-inventar)
+[Live demo](https://ki-inventar.adambaranyi.xyz/) · [Code on GitHub](https://github.com/AdamBaranyi/ki-inventar)
 
 </td>
 </tr>
