@@ -7,7 +7,7 @@
 </picture>
 </p>
 
-<p align="center">Since May 2025 I have been working as a junior software developer across the whole stack. In client projects I take work from requirements analysis through the MVP into operations; often I am the central technical contact. My training as a full-stack developer at Developer Akademie continues alongside my job.</p>
+<p align="center">From May 2025 to October 2026 I worked as a junior software developer at BE BRAVE AG, across the whole stack: AI features for companies, such as document search and knowledge assistants with RAG and locally run language models, and B2B web applications from sign-in and permissions to tests and deployment. In client projects I was often the central technical contact. My training as a full-stack developer at Developer Akademie continues; the front-end certificate followed in October 2026.</p>
 
 <p align="center"><b><a href="https://adambaranyi.xyz">adambaranyi.xyz</a></b> · <a href="https://www.linkedin.com/in/adam-baranyi123">LinkedIn</a></p>
 
